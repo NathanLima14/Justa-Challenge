@@ -30,7 +30,7 @@ public class AddressPage {
 	By addInfo = By.id("other");
 	By state = By.id("id_state");
 	
-	String titletext = "Automacao40";
+	String titletext = "NathanRuiz";
 	
 	//Preenche as informações de um novo endereço
 	public void fillAddress() {
